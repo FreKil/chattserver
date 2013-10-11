@@ -8,7 +8,7 @@
 <dl>
 	<dt>!n username</dt>
 		<dd>
-			Ersätt username med det anändarnamn du vill byta till.
+			Ersätt username med det användarnamn du vill byta till.
 		</dd>
 	<dt>!users</dt>
 		<dd>
